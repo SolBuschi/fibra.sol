@@ -1,0 +1,51 @@
+/* S E L E C T O R E S D E E T I Q U E T A */
+h1 {
+    color: rgb(251, 130, 0);
+    text-align: right;
+    text-transform: none;
+    text-decoration: underline;
+  }
+  
+  h2 { 
+    color: #ffffff;
+    text-align: center;
+
+  }
+  
+   h3 {
+    color: #ffffff;
+    text-align: justify;
+  }
+  
+  h4{ 
+    color:rgb(251, 130, 0)
+  }
+  p {
+    color: #ffffff;
+    text-align: justify;
+    text-transform: none;
+  }
+  
+  /* B A C K G R O U N D - C O L O R */
+  body {
+    background-color: #175bf9;
+  }
+  
+  
+  /* I M A G E   S T Y L E S */
+  img {
+    width: 600px;               /* W I D T H */
+    border-radius: 500px;        /* B O R D E R - R A D I U S */
+    display: block;
+    margin: 10px auto;               /* M A R G I N */
+  }
+  
+  a { 
+    color: rgb(251, 130, 0);
+    text-decoration: none;
+    
+  }
+  ul { 
+    color:rgb(251, 130, 0) ;
+    text-decoration: overline;
+  }
